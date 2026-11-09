@@ -1,0 +1,9 @@
+public_case_id	threshold	comparison_operator	provenance_status	case_status	notes
+LUAD-SMC-51		<	ANCHOR_ABSENT	ANCHOR_ABSENT	No qualifying LN anchor; SEED is not defined and no override is permitted
+LUAD-SMC-59	0.5	<	CONFIGURED	DEFINED	Strict UMAP distance to qualifying anchors
+LUAD-SMC-101	0.5	<	CONFIGURED	DEFINED	Strict UMAP distance to qualifying anchors
+LUAD-SMC-102	1.1	<	CONFIGURED	DEFINED	Strict UMAP distance to qualifying anchors
+LUAD-SMC-103	1.5	<	CONFIGURED	DEFINED	Strict UMAP distance to qualifying anchors
+LUAD-UHC-02	1.0	<	CONFIGURED	DEFINED	Strict UMAP distance to qualifying anchors
+LUAD-UHC-04	1.0	<	CONFIGURED	DEFINED	Strict UMAP distance to qualifying anchors
+LUAD-UHC-24	1.0	<	CONFIGURED	DEFINED	Strict UMAP distance to qualifying anchors

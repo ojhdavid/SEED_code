@@ -1,0 +1,7 @@
+{
+  "visium_root": "/inputs/Visium",
+  "coordinate_table": "../visium/resources/coordinates/TMA_coordinates_except_german.csv",
+  "annotation_root": "../visium/resources/annotations",
+  "trajectory_csv": "../visium/resources/trajectory/ALK103_trajectory_pseudotime_result.csv",
+  "output": "/outputs/new_alk103_run"
+}

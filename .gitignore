@@ -1,0 +1,49 @@
+# ===============================
+# Data & large objects (NEVER commit)
+# ===============================
+data/**
+*.h5ad
+*.h5seurat
+*.rds
+*.loom
+
+# ===============================
+# Results & figures
+# ===============================
+results/**
+*.pdf
+*.tif
+*.tiff
+*.png
+
+# ===============================
+# Logs & temp
+# ===============================
+*.log
+.ipynb_checkpoints/
+__pycache__/
+
+# ===============================
+# R / Python
+# ===============================
+.Rhistory
+.RData
+.Rproj.user
+
+# Local Visium configuration, environments, generated objects and credentials
+config/*.local.json
+config.local.yaml
+.env
+*.pem
+*.key
+*.h5
+*.hdf5
+*.RDS
+*.mtx
+*.mtx.gz
+*.pyc
+.venv/
+.cache/
+validation_outputs/
+manual_annotation/
+raw_data/

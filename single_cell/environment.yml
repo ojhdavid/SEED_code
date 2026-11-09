@@ -1,0 +1,26 @@
+name: seed-singlecell
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9.20
+  - pip
+  - pip:
+      - scanpy==1.10.3
+      - anndata==0.10.8
+      - numpy==1.26.4
+      - scipy==1.13.1
+      - pandas==2.2.3
+      - scikit-learn==1.5.2
+      - numba==0.60.0
+      - llvmlite==0.43.0
+      - umap-learn==0.5.7
+      - pynndescent==0.5.13
+      - bbknn==1.6.0
+      - annoy==1.17.3
+      - igraph==0.11.8
+      - leidenalg==0.10.2
+      - scikit-misc==0.3.1
+      - h5py==3.12.1
+      - matplotlib==3.9.3
+      - seaborn==0.13.2
+      - mygene

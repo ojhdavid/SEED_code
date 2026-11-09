@@ -1,0 +1,35 @@
+source_case_id	source_sample_id	public_case_id	public_sample_id	cohort	tissue	core_id	include_in_concat	exclusion_reason	space_ranger_sample	coordinate_sample_id	annotation_source_id	coordinate_table
+ALK51	ALK51P	LUAD-SMC-51	LUAD-SMC-51P	SMC	primary	P	true		ALK51		ALK51	TMA_coordinates_except_german.csv
+ALK51	ALK51L_7_1	LUAD-SMC-51	LUAD-SMC-51L_7_1	SMC	lymph_node	L_7_1	true		TMA1	ALK51L_7_1	ALK51L_7_1	TMA_coordinates_except_german.csv
+ALK51	ALK51L_7_2	LUAD-SMC-51	LUAD-SMC-51L_7_2	SMC	lymph_node	L_7_2	true		TMA1	ALK51L_7_2	ALK51L_7_2	TMA_coordinates_except_german.csv
+ALK59	ALK59P	LUAD-SMC-59	LUAD-SMC-59P	SMC	primary	P	true		ALK59		ALK59	TMA_coordinates_except_german.csv
+ALK59	ALK59L_11R-2	LUAD-SMC-59	LUAD-SMC-59L_11R-2	SMC	lymph_node	L_11R-2	true		TMA1	ALK59L_11R-2	ALK59L_11R-2	TMA_coordinates_except_german.csv
+ALK59	ALK59L_11R	LUAD-SMC-59	LUAD-SMC-59L_11R	SMC	lymph_node	L_11R	true		TMA1	ALK59L_11R	ALK59L_11R	TMA_coordinates_except_german.csv
+ALK101	ALK101P	LUAD-SMC-101	LUAD-SMC-101P	SMC	primary	P	true		ALK101		ALK101	TMA_coordinates_except_german.csv
+ALK101	ALK101L_4R_2	LUAD-SMC-101	LUAD-SMC-101L_4R_2	SMC	lymph_node	L_4R_2	true		TMA1	ALK101L_4R_2	ALK101L_4R_2	TMA_coordinates_except_german.csv
+ALK101	ALK101L_4R_1	LUAD-SMC-101	LUAD-SMC-101L_4R_1	SMC	lymph_node	L_4R_1	true		TMA1	ALK101L_4R_1	ALK101L_4R_1	TMA_coordinates_except_german.csv
+ALK101	ALK101L_10R	LUAD-SMC-101	LUAD-SMC-101L_10R	SMC	lymph_node	L_10R	true		TMA1	ALK101L_10R	ALK101L_10R	TMA_coordinates_except_german.csv
+ALK101	ALK101L_11RS	LUAD-SMC-101	LUAD-SMC-101L_11RS	SMC	lymph_node	L_11RS	true		TMA1	ALK101L_11RS	ALK101L_11RS	TMA_coordinates_except_german.csv
+ALK101	ALK101L_7	LUAD-SMC-101	LUAD-SMC-101L_7	SMC	lymph_node	L_7	true		TMA1	ALK101L_7	ALK101L_7	TMA_coordinates_except_german.csv
+ALK101	ALK101L_11RI2	LUAD-SMC-101	LUAD-SMC-101L_11RI2	SMC	lymph_node	L_11RI2	true		TMA2	ALK101L_11RI2	ALK101L_11RI2	TMA_coordinates_except_german.csv
+ALK101	ALK101L_11RS_T2	LUAD-SMC-101	LUAD-SMC-101L_11RS_T2	SMC	lymph_node	L_11RS_T2	false	T2 sample excluded from analysis	TMA2	ALK101L_11RS_T2	ALK101L_11RS_T2	TMA_coordinates_except_german.csv
+ALK101	ALK101L_7_T2	LUAD-SMC-101	LUAD-SMC-101L_7_T2	SMC	lymph_node	L_7_T2	false	T2 sample excluded from analysis	TMA2	ALK101L_7_T2	ALK101L_7_T2	TMA_coordinates_except_german.csv
+ALK102	ALK102P	LUAD-SMC-102	LUAD-SMC-102P	SMC	primary	P	true		ALK102		ALK102	TMA_coordinates_except_german.csv
+ALK102	ALK102L_4R	LUAD-SMC-102	LUAD-SMC-102L_4R	SMC	lymph_node	L_4R	true		TMA1	ALK102L_4R	ALK102L_4R	TMA_coordinates_except_german.csv
+ALK102	ALK102L_7_2	LUAD-SMC-102	LUAD-SMC-102L_7_2	SMC	lymph_node	L_7_2	false	No assigned pathology labels	TMA1	ALK102L_7_2	ALK102L_7_2	TMA_coordinates_except_german.csv
+ALK102	ALK102L_7_1	LUAD-SMC-102	LUAD-SMC-102L_7_1	SMC	lymph_node	L_7_1	true		TMA1	ALK102L_7_1	ALK102L_7_1	TMA_coordinates_except_german.csv
+ALK102	ALK102L_7_2_T2	LUAD-SMC-102	LUAD-SMC-102L_7_2_T2	SMC	lymph_node	L_7_2_T2	false	T2 sample excluded from analysis	TMA2	ALK102L_7_2_T2	ALK102L_7_2_T2	TMA_coordinates_except_german.csv
+ALK102	ALK102L_7_1_T2	LUAD-SMC-102	LUAD-SMC-102L_7_1_T2	SMC	lymph_node	L_7_1_T2	false	T2 sample excluded from analysis	TMA2	ALK102L_7_1_T2	ALK102L_7_1_T2	TMA_coordinates_except_german.csv
+ALK103	ALK103P	LUAD-SMC-103	LUAD-SMC-103P	SMC	primary	P	true		ALK103		ALK103	TMA_coordinates_except_german.csv
+ALK103	ALK103L_7	LUAD-SMC-103	LUAD-SMC-103L_7	SMC	lymph_node	L_7	true		TMA2	ALK103L_7	ALK103L_7	TMA_coordinates_except_german.csv
+ALK_UKKA_02	ALK_UKKA_02P	LUAD-UHC-02	LUAD-UHC-02P	UHC	primary	P	true		ALK_UKKA_02		ALK_UKKA_02	TMA_coordinates_germany.csv
+ALK_UKKA_02	UKKA_02L_4A	LUAD-UHC-02	LUAD-UHC-02L_4A	UHC	lymph_node	L_4A	true		TMA2	UKKA-02L_4A	ALK_UKKA_02L_4A	TMA_coordinates_germany.csv
+ALK_UKKA_02	UKKA_02L_4C	LUAD-UHC-02	LUAD-UHC-02L_4C	UHC	lymph_node	L_4C	true		TMA1	UKKA-02L_4C	ALK_UKKA_02L_4C	TMA_coordinates_germany.csv
+ALK_UKKA_04	ALK_UKKA_04P	LUAD-UHC-04	LUAD-UHC-04P	UHC	primary	P	true		ALK_UKKA_04		ALK_UKKA_04	TMA_coordinates_germany.csv
+ALK_UKKA_04	UKKA_04L_2D	LUAD-UHC-04	LUAD-UHC-04L_2D	UHC	lymph_node	L_2D	true		TMA2	UKKA-04L_2D	ALK_UKKA_04L_2D	TMA_coordinates_germany.csv
+ALK_UKKA_04	UKKA_04L_3	LUAD-UHC-04	LUAD-UHC-04L_3	UHC	lymph_node	L_3	true		TMA1	UKKA-04L_3	ALK_UKKA_04L_3	TMA_coordinates_germany.csv
+ALK_UKKA_24	ALK_UKKA_24P	LUAD-UHC-24	LUAD-UHC-24P	UHC	primary	P	true		ALK_UKKA_24		ALK_UKKA_24	TMA_coordinates_germany.csv
+ALK_UKKA_24	UKKA_24L_3A	LUAD-UHC-24	LUAD-UHC-24L_3A	UHC	lymph_node	L_3A	true		TMA1	UKKA-24L_3A	ALK_UKKA_24L_3A	TMA_coordinates_germany.csv
+ALK_UKKA_24	UKKA_24L_3B	LUAD-UHC-24	LUAD-UHC-24L_3B	UHC	lymph_node	L_3B	true		TMA2	UKKA-24L_3B	ALK_UKKA_24L_3B	TMA_coordinates_germany.csv
+ALK_UKKA_24	UKKA_24L_3C	LUAD-UHC-24	LUAD-UHC-24L_3C	UHC	lymph_node	L_3C	true		TMA1	UKKA-24L_3C	ALK_UKKA_24L_3C	TMA_coordinates_germany.csv
+ALK_UKKA_24	UKKA_24L_4	LUAD-UHC-24	LUAD-UHC-24L_4	UHC	lymph_node	L_4	true		TMA2	UKKA-24L_4	ALK_UKKA_24L_4	TMA_coordinates_germany.csv

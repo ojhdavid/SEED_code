@@ -1,0 +1,9 @@
+{
+  "source_sample_name": "ALK103",
+  "top_n_genes": 260,
+  "malignant_annotations": [
+    "Malignant_cell",
+    "Malignant_cell_border_mixed"
+  ],
+  "exclusions_file": "signature_exclusions.tsv"
+}

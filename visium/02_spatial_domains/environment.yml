@@ -1,0 +1,21 @@
+name: seed-spagcn
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.10
+  - scanpy
+  - anndata
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - opencv
+  - pytorch
+  - leidenalg
+  - louvain
+  - pip
+  - pip:
+      - SpaGCN==1.2.7

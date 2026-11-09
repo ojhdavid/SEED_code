@@ -1,0 +1,28 @@
+name: seed-visium-card
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - r-base=4.3.1
+  - r-seurat=4.4.0
+  - r-hdf5r
+  - r-matrix=1.6_1.1
+  - r-ggplot2=3.5.1
+  - r-dplyr=1.1.4
+  - r-data.table=1.15.4
+  - r-readr=2.1.5
+  - r-yaml=2.3.9
+  - r-optparse=1.7.5
+  - r-patchwork=1.2.0
+  - r-remotes
+  - r-devtools
+  - bioconductor-singlecellexperiment
+  - bioconductor-toast=1.16.0
+  - bioconductor-summarizedexperiment
+  - r-sf
+  - r-fields
+  - r-mcmcpack
+  - r-rcpparmadillo
+  - r-scatterpie
+  - r-gtools
